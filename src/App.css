@@ -1,0 +1,134 @@
+.App {
+  display: flex;
+}
+
+body {
+  /* Layout Properties */
+  margin-top: 0px;
+  margin-left: 0px;
+  width: 1600px;
+  height: 1800px;
+  /* UI Properties */
+  background: #ffee31 0% 0% no-repeat padding-box;
+  opacity: 1;
+}
+
+.sidebar .logo {
+  margin-top: 40px;
+  margin-left: 200px;
+  width: 260px;
+  height: 80px;
+  /* UI Properties */
+  background: #2dc80a 0% 0% no-repeat padding-box;
+  border-radius: 10px;
+  opacity: 1;
+  display: flex;
+}
+
+.logo h1 {
+  top: 67px;
+  left: 235px;
+  width: 89px;
+  height: 34px;
+  /* UI Properties */
+  text-align: left;
+  font: normal normal normal 32px/44px Mongolian Baiti;
+  letter-spacing: 0px;
+  color: #101010;
+  opacity: 1;
+}
+
+.sidebar nav {
+  margin-top: 150px;
+  margin-left: 200px;
+  width: 260px;
+  height: 707px;
+  /* UI Properties */
+  background: #dec5c5 0% 0% no-repeat padding-box;
+  border-radius: 10px;
+  opacity: 1;
+  margin-top: 10px;
+}
+
+nav .log-btn {
+  top: 795px;
+  left: 270px;
+  width: 56px;
+  height: 19px;
+  /* UI Properties */
+  color: var(--unnamed-color-88c2bb);
+  text-align: left;
+  font: normal normal 600 16px/19px Gilroy;
+  letter-spacing: 0px;
+  color: #88c2bb;
+  opacity: 1;
+}
+.search-bar {
+  margin-top: 40px;
+  margin-left: 290px;
+
+  width: 620px;
+  height: 80px;
+  /* UI Properties */
+  background: #ffffff 0% 0% no-repeat padding-box;
+  border-radius: 10px;
+  opacity: 1;
+}
+
+.header .filter {
+  top: 67px;
+  left: 1009px;
+  width: 71px;
+  height: 26px;
+  /* UI Properties */
+  opacity: 1;
+}
+
+.header .btn {
+  top: 40px;
+  left: 1140px;
+  width: 260px;
+  height: 80px;
+  /* UI Properties */
+  background: var(--unnamed-color-88c2bb) 0% 0% no-repeat padding-box;
+  background: #88c2bb 0% 0% no-repeat padding-box;
+  border-radius: 10px;
+  opacity: 1;
+  color: white;
+  border: none;
+  margin-left: 10px;
+}
+
+.feed h3 {
+  top: 182px;
+  left: 582px;
+  width: 111px;
+  height: 24px;
+  /* UI Properties */
+  text-align: left;
+  font: normal normal 600 20px/24px Gilroy;
+  letter-spacing: 0px;
+  color: #101010;
+  opacity: 1;
+}
+
+.feed {
+  top: 150px;
+  left: 490px;
+  width: 620px;
+  height: 600px;
+  /* UI Properties */
+  background: #ffffff 0% 0% no-repeat padding-box;
+  border-radius: 10px;
+  opacity: 1;
+}
+
+.feed img {
+  top: 325px;
+  left: 520px;
+  width: 560px;
+  height: 306px;
+
+  border-radius: 10px;
+  opacity: 1;
+}
